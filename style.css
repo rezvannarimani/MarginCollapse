@@ -1,0 +1,13 @@
+.para1 {
+    margin: 10px;
+    background-color: rgb(128, 144, 6, 0.85);
+    width:100px;
+    height: 50px;
+}
+
+.para2 {
+    margin: 5px;
+    background-color: rgb(88, 244, 156, 0.85);
+    width:100px;
+    height: 50px;
+}
